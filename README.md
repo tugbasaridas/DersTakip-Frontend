@@ -30,6 +30,7 @@ Ayrıca istatistik sayfasında günlük ve haftalık çalışma sürelerini gör
 
 ## ▶️ Çalıştırmak İçin
 npm install
+
 npm run dev
 
 
