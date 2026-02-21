@@ -32,5 +32,7 @@ Ayrıca istatistik sayfasında günlük ve haftalık çalışma sürelerini gör
 npm install
 
 npm run dev
-
+## Netlify adresi
+https://derstakipfrontend.netlify.app/
+## Software Persona staj eğitimi projesi için üretilmiştir.Bu yüzden projenin ekran görüntüleri anasayfa.png ve istatistik.png bu repoya konmuştur.
 
