@@ -29,14 +29,14 @@ function App() {
             Çalışmanı planla, başarını artır.
           </p>
           
-          {/* Sayfalar arası geçiş için basit butonlar (Opsiyonel) */}
+      
           <nav className="mt-4">
             <Link to="/" className="text-white mx-2 underline">Ana Sayfa</Link>
             <Link to="/stats" className="text-white mx-2 underline">İstatistikler</Link>
           </nav>
         </header>
 
-        {/* Sayfa İçerikleri */}
+      
         <Routes>
           <Route 
             path="/" 
